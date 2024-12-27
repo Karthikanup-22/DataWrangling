@@ -1,0 +1,9 @@
+{
+    "name": "kamal",
+    "age": 25,
+    "skills": [
+        "Python",
+        "Data Science"
+    ],
+    "isEmployed": true
+}

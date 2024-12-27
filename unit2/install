@@ -1,0 +1,13 @@
+Check if pip is installed:
+
+python3 -m pip --version
+
+python3 -m pip install pandas openpyxl xlrd
+
+-------------------------------------------------------------
+
+python3 -m pip install PyPDF2
+---------------------------------------------------
+python3 -m pip install pdfminer.six
+----------------------------------------------------
+
